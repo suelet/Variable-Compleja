@@ -1,0 +1,2 @@
+Transformación conforme.
+========================
