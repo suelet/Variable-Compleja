@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Variable-Compleja'
-copyright = '2018, José Luis Hernández Schweicez'
-author = 'José Luis Hernández Schweicez'
+copyright = u'2018, José Luis Hernández Schweicez'
+author = u'José Luis Hernández Schweicez'
 
 # The short X.Y version
 version = ''
