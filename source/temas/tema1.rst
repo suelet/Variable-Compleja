@@ -1,5 +1,10 @@
-Los números complejos.
-======================
+
+***********************
+Los números complejos..
+***********************
+
+Teoría..
+========
 
 Introducción a los Números Complejos.
 -------------------------------------
@@ -24,3 +29,10 @@ Plano complejo ampliado, compactificación del plano complejo.
 
 La esfera de Riemann, distancia cordal.
 ---------------------------------------
+
+Ejercicios..
+============
+
+
+Resumen..
+=========

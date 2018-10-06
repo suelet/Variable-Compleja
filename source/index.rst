@@ -8,7 +8,7 @@ Welcome to Variable Compleja's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Indice:
 
    Los números complejos <./temas/tema1>
    Funciones complejas <./temas/tema2>
