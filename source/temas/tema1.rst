@@ -9,6 +9,8 @@ Teoría..
 Introducción a los Números Complejos.
 -------------------------------------
 
+Los números complejos se denotan por $$ \\mathbb{C} $$
+
 Estructura algebráica de los números complejos.
 -----------------------------------------------
 

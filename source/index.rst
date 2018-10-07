@@ -10,7 +10,7 @@ Welcome to Variable Compleja's documentation!
    :maxdepth: 2
    :caption: Indice:
 
-   Los números complejos <./temas/tema1>
+   Números complejos <./temas/tema1>
    Funciones complejas <./temas/tema2>
    Series de potencias. Funciones elementales <./temas/tema3>
    Integración en el campo complejo. El teorema de Cauchy <./temas/tema4>
