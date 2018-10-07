@@ -9,7 +9,9 @@ Teoría..
 Introducción a los Números Complejos.
 -------------------------------------
 
-Los números complejos se denotan por \\( \\mathbb{C} \\) y se define un número complejo \\(z\\) como un par ordenado de números reales \\(z=(a,b)\\)
+Los números complejos se denotan por \\( \\mathbb{C} \\) y se define un número complejo \\(z\\), como un **par ordenado** de números reales \\(z=(a,b)\\).
+
+De esta manera, los números complejos se pueden representar en un plano, al que llamamos plano complejo. En el que el eje \\(x\\) se denomina Eje Real
 
 Estructura algebráica de los números complejos.
 -----------------------------------------------
